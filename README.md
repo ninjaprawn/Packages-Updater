@@ -2,6 +2,7 @@ Packages-Updater
 ================
 
 Easy (PHP) way to convert Packages to Packages.gz
+Supports the **better** alternative bzip2
 
 **Important stuff:**
 - Make sure you can write stuff on your server
